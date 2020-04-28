@@ -1,0 +1,8 @@
+3ca8a38b925cd31b8fe41a85f0321ea20e8285e3
+{"type":"plugins","name":"Total Plugins","count":29}
+{"type":"themes","name":"Total Themes","count":2}
+{"type":"secured","name":"Auto Updated","context":"success","count":1}
+{"type":"risk_low","name":"Low Risk","context":"info","count":27}
+{"type":"risk_medium","name":"Medium Risk","context":"warning","count":0}
+{"type":"risk_high","name":"High Risk","context":"danger","count":3}
+

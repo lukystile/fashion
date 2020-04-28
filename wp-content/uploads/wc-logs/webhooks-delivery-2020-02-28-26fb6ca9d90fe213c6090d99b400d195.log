@@ -1,0 +1,413 @@
+2020-02-28T14:42:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 61207829392cbf7465dc6422663b63dd
+            [Date] => Feb 28, 2020 @ 14:42
+            [URL] => https://rpersonalshopper.vendhq.com/channel_webhooks/1219538674955800576
+            [Duration] => 0.68332
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.9.1 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://rps.fashion/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Sx3QkgBrEBNxyJxXkeIygtD4YpwCwQx4xLtI3EOqBIk=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => 61207829392cbf7465dc6422663b63dd
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 202
+                    [Message] => Accepted
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 28 Feb 2020 14:42:47 GMT
+                                    [content-type] => application/octet-stream
+                                    [content-length] => 0
+                                    [server] => openresty
+                                    [x-amzn-trace-id] => Root=1-5e5926e7-a87839aeb111354694edf482
+                                    [vend-rid] => a87839aeb111354694edf482
+                                    [vend-ingress] => duke-f4a565189655
+                                    [vend-canary] => wattle_street
+                                    [x-webkit-csp] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-hue] => router-049d2cdc4b41ea0e4
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-02-28T16:14:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b31662a1b295bad2621ff2fc696a9da3
+            [Date] => Feb 28, 2020 @ 16:14
+            [URL] => https://rpersonalshopper.vendhq.com/channel_webhooks/1219538674955800576
+            [Duration] => 0.69775
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.9.1 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://rps.fashion/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => DaReE3tMt8VLgI05JCMZxxKAfiij1dE/TEch5LwlekI=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => b31662a1b295bad2621ff2fc696a9da3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 202
+                    [Message] => Accepted
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 28 Feb 2020 16:14:47 GMT
+                                    [content-type] => application/octet-stream
+                                    [content-length] => 0
+                                    [server] => openresty
+                                    [x-amzn-trace-id] => Root=1-5e593c77-762be2faa65230c409e6eae4
+                                    [vend-rid] => 762be2faa65230c409e6eae4
+                                    [vend-ingress] => duke-f4a565189655
+                                    [vend-canary] => wattle_street
+                                    [x-webkit-csp] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-hue] => router-0b1ebe447b2cc5a8d
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-02-28T17:50:05+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a469806e6487fc29add12317e931cc95
+            [Date] => Feb 28, 2020 @ 17:50
+            [URL] => https://rpersonalshopper.vendhq.com/channel_webhooks/1219538674955800576
+            [Duration] => 0.69243
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.9.1 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://rps.fashion/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => NahuUNIPiKV1efO8To+5yt/+XrXyUyCZMtfK5HhbxTM=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => a469806e6487fc29add12317e931cc95
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 202
+                    [Message] => Accepted
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 28 Feb 2020 17:50:05 GMT
+                                    [content-type] => application/octet-stream
+                                    [content-length] => 0
+                                    [server] => openresty
+                                    [x-amzn-trace-id] => Root=1-5e5952cd-aaa6385a239dbdeea78b0b72
+                                    [vend-rid] => aaa6385a239dbdeea78b0b72
+                                    [vend-ingress] => duke-42b58c45c67d
+                                    [vend-canary] => wattle_street
+                                    [x-webkit-csp] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-hue] => router-0593edf601090d34f
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-02-28T17:50:06+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a469806e6487fc29add12317e931cc95
+            [Date] => Feb 28, 2020 @ 17:50
+            [URL] => https://rpersonalshopper.vendhq.com/channel_webhooks/1219538674955800576
+            [Duration] => 0.67664
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.9.1 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://rps.fashion/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => eTHP4Hh9U6QJcqmbled8+JKE1+puZbYNHw44sKx3CVI=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => a469806e6487fc29add12317e931cc95
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 202
+                    [Message] => Accepted
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 28 Feb 2020 17:50:06 GMT
+                                    [content-type] => application/octet-stream
+                                    [content-length] => 0
+                                    [server] => openresty
+                                    [x-amzn-trace-id] => Root=1-5e5952ce-30e4855a7a40872fe9dc7b72
+                                    [vend-rid] => 30e4855a7a40872fe9dc7b72
+                                    [vend-ingress] => duke-bd868686db3b
+                                    [vend-canary] => wattle_street
+                                    [x-webkit-csp] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-hue] => router-0b1ebe447b2cc5a8d
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-02-28T17:50:07+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d70c4bcfa559a9b5b9575769a294ee5c
+            [Date] => Feb 28, 2020 @ 17:50
+            [URL] => https://rpersonalshopper.vendhq.com/channel_webhooks/1219538674955800576
+            [Duration] => 0.71296
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.9.1 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://rps.fashion/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => DoLWtg0LDsqVCBJEqiM6/dpFy+o3pfVGlurcp5zCoRs=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => d70c4bcfa559a9b5b9575769a294ee5c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 202
+                    [Message] => Accepted
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 28 Feb 2020 17:50:07 GMT
+                                    [content-type] => application/octet-stream
+                                    [content-length] => 0
+                                    [server] => openresty
+                                    [x-amzn-trace-id] => Root=1-5e5952cf-7149e1fa9bb75796cf662fa4
+                                    [vend-rid] => 7149e1fa9bb75796cf662fa4
+                                    [vend-ingress] => duke-bd868686db3b
+                                    [vend-canary] => wattle_street
+                                    [x-webkit-csp] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-hue] => router-049d2cdc4b41ea0e4
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-02-28T17:50:07+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => cd33e4bda04fee0a2d43037ef77339f8
+            [Date] => Feb 28, 2020 @ 17:50
+            [URL] => https://rpersonalshopper.vendhq.com/channel_webhooks/1219538674955800576
+            [Duration] => 0.6414
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.9.1 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://rps.fashion/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => EVjQaDSQNAICCEIz2ri+7xfa5bESTgnpAAuMGCX64Co=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => cd33e4bda04fee0a2d43037ef77339f8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 202
+                    [Message] => Accepted
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 28 Feb 2020 17:50:07 GMT
+                                    [content-type] => application/octet-stream
+                                    [content-length] => 0
+                                    [server] => openresty
+                                    [x-amzn-trace-id] => Root=1-5e5952cf-c278edc2dc1bdb2bb7e56ab8
+                                    [vend-rid] => c278edc2dc1bdb2bb7e56ab8
+                                    [vend-ingress] => duke-f4a565189655
+                                    [vend-canary] => wattle_street
+                                    [x-webkit-csp] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-hue] => router-069b14f7bf2aa3f16
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-02-28T17:50:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => cd33e4bda04fee0a2d43037ef77339f8
+            [Date] => Feb 28, 2020 @ 17:50
+            [URL] => https://rpersonalshopper.vendhq.com/channel_webhooks/1219538674955800576
+            [Duration] => 0.66323
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.9.1 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://rps.fashion/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => hHwLvdDdroiJl/5GBOOQEXmWNQUpwTmKO8A+pPlOcOQ=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => cd33e4bda04fee0a2d43037ef77339f8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 202
+                    [Message] => Accepted
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 28 Feb 2020 17:50:08 GMT
+                                    [content-type] => application/octet-stream
+                                    [content-length] => 0
+                                    [server] => openresty
+                                    [x-amzn-trace-id] => Root=1-5e5952d0-2cfee74887c4feaf547f9211
+                                    [vend-rid] => 2cfee74887c4feaf547f9211
+                                    [vend-ingress] => duke-42b58c45c67d
+                                    [vend-canary] => wattle_street
+                                    [x-webkit-csp] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-frame-options] => SAMEORIGIN
+                                    [content-security-policy] => frame-ancestors 'self' *.vendhq.com; report-uri https://csp.api.vendhq.com/prod/report;
+                                    [x-hue] => router-0f3683ef8ebc6dfe2
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
